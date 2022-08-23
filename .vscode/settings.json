@@ -1,5 +1,10 @@
 {
   "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
   "java.format.settings.profile": "GoogleStyle",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "testing.followRunningTest": false,
+  "explorer.autoReveal": false,
+  "java.dependency.packagePresentation": "flat",
+  "java.silentNotification": true,
+  "testing.openTesting": "neverOpen"
 }
